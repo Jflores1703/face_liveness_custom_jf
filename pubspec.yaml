@@ -1,4 +1,4 @@
-name: flutter_liveness_detection_randomized_plugin
+name: face_liveness_custom_jf
 description: "A Flutter plugin for liveness detection with randomized challenge response method"
 version: 1.0.6
 homepage: "https://bagussubagja.vercel.app"
